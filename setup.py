@@ -4,11 +4,11 @@ import setuptools
 
 setuptools.setup(
 
-    name="acme",
+    name="your_app",
     version="0.0.1",
 
-    description="Library for Acme inc.",
-    long_description="Library for Acme inc.",
+    description="Your app library",
+    long_description="Your app library",
     long_description_content_type="text/plain",
     url="https://github.com/barobba/your-app-library",
 

@@ -1,5 +1,5 @@
 
-from acme.Account import Account
+from your_app.Account import Account
 
 
 class Acme:
