@@ -1,13 +1,15 @@
 
 class Account:
 
-    def __init__(self, record_id, first, last):
-
-        self.record_id = record_id
+    def __init__(self, first, last, balance, record_id=None):
 
         self.first = first
 
         self.last = last
+
+        self.balance = balance
+
+        self.record_id = record_id
 
     def get_name(self):
 
