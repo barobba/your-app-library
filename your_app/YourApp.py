@@ -2,7 +2,7 @@
 from your_app.Account import Account
 
 
-class Acme:
+class YourApp:
 
     def get_account_list(self):
 
